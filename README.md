@@ -14,7 +14,7 @@ to use it :-).
 
 ## Example usage
 ```
-<pre class="code"><code class="java">
+
  *     public class Main {
  *     public static void main(String[] args){
  *      NetworkImpl network=NetworkImpl.getInstance();
@@ -28,7 +28,7 @@ to use it :-).
  *          System.out.println(responseModel.getRegion());
  *      });
  *     }
- *     </code></pre>
+ * 
 ```
 
 
